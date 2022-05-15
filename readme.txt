@@ -8,7 +8,6 @@ Libraries to be imported :
 -->> main.py is the main file in which we ask some questions and after analyzing we will tell you whether you are healthy or not 
 -->> knowledge_graph.py is the file in which we plot a graph 
 -->> disease is the folder in which we have the description ,treatments ,info about the diseases
--->> media is the folder in which we have some images for reference like questions.png,solutions.png,info.png 
 -->> graph.png is the image in which we the graph that we made will be stored 
 -->> disease_symptoms.txt is the txt file in which we have the diseases and their symptoms 
 -->> symptoms.txt is the txt file which include symptoms
